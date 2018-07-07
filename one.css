@@ -1,0 +1,486 @@
+.background{
+	/*background:linear-gradient(90deg,#13547A,#80D0C7);*/
+	background: url(https://wallpapertag.com/wallpaper/full/3/b/f/720372-cool-literature-wallpapers-1920x1200-mac.jpg);
+	width:100%;
+	height:100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.intro{
+	position: relative;
+	display:block;
+	box-sizing: border-box;
+}
+.sec1{
+	padding: 3% 1% 1% 1%;
+	text-align:center;
+	box-sizing: border-box;
+	position:relative;
+	opacity:0.8;
+}
+.sec2{
+	padding: 3% 2% 0% 2%;
+	width:100vw;
+	text-align:center;
+	font-size:90px;
+	font-family:'Cloister Black';
+	color:#cccccc;
+	font-weight:;
+	box-sizing: border-box; 
+}
+.sec3{
+	padding:0% 2% 4% 2%;
+	width:100vw;
+	text-align:center;
+	font-size:35px;
+	font-family:'Sirin Stencil';
+	color:#cccccc;
+	font-weight:700;
+	box-sizing: border-box; 
+}
+.animated {
+  -webkit-animation-duration: 2.5s;
+  animation-duration: 2.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+} 
+
+@-webkit-keyframes bounce {
+  0%, 20%, 40%, 60%, 80%, 100% {-webkit-transform: translateY(0);}
+  50% {-webkit-transform: translateY(-5px);}
+} 
+
+@keyframes bounce { 
+  0%,20%, 40%, 60%, 80%, 100% {transform: translateY(0);}
+  10%, 30%, 50%, 70%, 90% {transform: translateY(-8px);}
+} 
+
+.bounce { 
+  -webkit-animation-name: bounce;
+  animation-name: bounce;
+}
+#animated-example {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    border-radius: 50%;
+}
+.background2{
+	/*background:linear-gradient(35deg,#c79081,#dfa579);*/
+	background:linear-gradient(90deg,#eacda3,#d6ae7b);
+	width:100%;
+	height:100%;
+}
+.topnav {
+    background-color: #654321;
+    overflow: hidden;
+    height:auto;
+    width:100vw;
+    margin-bottom:2vh;
+    position:sticky;
+    top:0;
+    z-index: 100;
+    box-sizing: border-box;
+}
+.topnav a{
+	font-family:'Sirin Stencil';
+	text-decoration:none;
+	display:block;
+	float:left;
+	text-align: center;
+	color: white;
+	padding:15px 15px 15px 15px;
+	font-size:4vh;
+	box-sizing: border-box;
+	height:12vh;
+}
+.active {
+    background-color: #222222;
+    color: white;
+    height:12vh;
+}
+.active:hover{
+	background-color: #222222;
+    color: white;
+    text-decoration: none;
+}
+.topnav .icon {
+    display: none;
+}
+.topnav a:hover:not(.active), .topnav a:hover:not(:first-child) {
+    background-color: #ddd;
+    color: black;
+    text-decoration:none;
+    height:12vh;
+    box-sizing: border-box;
+}
+.image1{
+    width:12vh;
+    height:12vh;
+    float:left;
+    padding:0%;
+    margin:0%;
+    box-sizing:border-box;
+}
+.sect1{
+    padding-left:5vw;
+    padding-right:5vw;
+    color:black;
+    position: relative;
+    height: 100%;
+    box-sizing: border-box;
+}
+.section1{
+    font-family: 'Sirin Stencil';
+    font-size: 10vh;
+    padding-bottom:3%;
+    text-align: center;
+    box-sizing: border-box;
+}
+.section1Inner{
+    font-family: 'Special Elite';
+    line-height:6vh;
+    text-align:justify;
+    font-size:4vh;
+    display:block;
+    padding-bottom: 5vh;
+    box-sizing: border-box;
+}
+.background3{
+	background-color: #eeeeff;
+	width:100%;
+	height:100%;
+}
+.sect2{
+    padding-left:5vw;
+    padding-right:5vw;
+    color:black;
+    position: relative;
+    height: 100%;
+    box-sizing: border-box;
+}
+.section2{
+	padding-top:5vh;
+    font-family: 'Sirin Stencil';
+    font-size: 10vh;
+    padding-bottom:3%;
+    text-align: center;
+    box-sizing: border-box;
+}
+.section2Inner{
+    font-family: 'Special Elite';
+    line-height:6vh;
+    text-align:justify;
+    font-size:4vh;
+    display:block;
+    padding-bottom: 5vh;
+    box-sizing: border-box;
+}
+.sect3{
+    padding-left:5vw;
+    padding-right:5vw;
+    color:black;
+    position: relative;
+    height: auto;
+    box-sizing: border-box;
+}
+.section3{
+	padding-top:5vh;
+    font-family: 'Sirin Stencil';
+    font-size: 10vh;
+    padding-bottom:5vh;
+    text-align: center;
+    box-sizing: border-box;
+}
+.card1{
+	height:auto;
+	width:100%;
+	cursor:pointer;
+	margin-bottom:5vh;
+	box-sizing: border-box;
+}
+.card1:hover{
+	box-shadow: 5px 10px 8px #666666;
+	background-color:#654321;
+	z-index:100;
+	border:none;
+	box-sizing: border-box;
+}
+.header{
+	font-family: 'Sirin Stencil';
+	background-color:#cccccc;
+	text-align:center;
+	box-sizing: border-box;
+}
+.header h2{
+	font-size:7vh;
+	box-sizing: border-box;
+}
+.para{
+	padding-top:5vh;
+	font-family:'Ubuntu';
+	font-size:19px;
+	padding-bottom:4vh;
+	box-sizing: border-box;
+}
+.card2{
+	height:auto;
+	width:100%;
+	cursor:pointer;
+	margin-bottom:5vh;
+	box-sizing: border-box;
+}
+.card2:hover{
+	box-shadow: 5px 10px 8px #666666;
+	background-color:#654321;
+	z-index:100;
+	border:none;
+	box-sizing: border-box;
+}
+.sect4{
+    padding-left:5vw;
+    padding-right:5vw;
+    color:black;
+    position: relative;
+    height: auto;
+    box-sizing: border-box;
+}
+.section4{
+	padding-top:5vh;
+    font-family: 'Sirin Stencil';
+    font-size: 10vh;
+    padding-bottom:5vh;
+    text-align: center;
+    box-sizing: border-box;
+}
+.section4Inner{
+	text-align:center;
+	padding-bottom: 7vh;
+	box-sizing: border-box;
+}
+.sect5{
+    padding-left:5vw;
+    padding-right:5vw;
+    color:black;
+    position: relative;
+    height: auto;
+    box-sizing: border-box;
+}
+.section5{
+	padding-top:5vh;
+    font-family: 'Sirin Stencil';
+    font-size: 10vh;
+    padding-bottom:5vh;
+    text-align: center;
+    box-sizing: border-box;
+}
+.card {
+    box-shadow: 5px 4px 8px 0 #888888;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    padding-top: 5vh;
+    background:linear-gradient(45deg,#faaca8,#ddd6f3);
+    height:auto;
+    margin-bottom:5vh;
+    box-sizing: border-box;
+}
+.title {
+    color: grey;
+    font-size: 25px;
+}
+.title a i {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+.title a i:hover {
+    opacity: 0.7;
+}
+.sect6{
+    padding-left:5vw;
+    padding-right:5vw;
+    color:black;
+    position: relative;
+    height: auto;
+    box-sizing: border-box;
+}
+.section6{
+    font-family: 'Sirin Stencil';
+    font-size: 8vh;
+    padding-bottom:5vh;
+    text-align: center;
+    box-sizing: border-box;
+}
+.card3 {
+    box-shadow: 5px 4px 8px 0 #888888;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    padding-top: 5vh;
+    background:linear-gradient(45deg,#faaca8,#ddd6f3);
+    height:auto;
+    padding-bottom: 5vh;
+    margin-bottom:5vh;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.card3:hover{
+	box-shadow: 5px 4px 8px 0 #888888;
+	cursor:initial;
+	box-sizing: border-box;
+}
+.footer{
+	margin-top:5vh;
+	padding-left:5vw;
+	padding-right:5vw;
+	position:relative;
+	height:auto;
+	width:100vw;
+	background-color:#654321;
+	color:white;
+	padding-top:5vh;
+	padding-bottom: 5vh;
+	box-sizing: border-box;
+}
+.card4 {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    padding-top: 5vh;
+    height:auto;
+    margin-bottom:5vh;
+    box-sizing: border-box;
+}
+@media screen and (max-width:1000px){
+.sec1{
+	padding: 5% 2% 2% 2%;
+	width:100vw;
+	text-align:center;
+	opacity:0.7;
+}
+.sec2{
+	padding: 3% 2% 0% 2%;
+	width:100vw;
+	text-align:center;
+	font-size:60px;
+	font-family:'Cloister Black';
+	color:#cccccc; 
+}
+.sec3{
+	padding:0% 2% 10% 2%;
+	width:100vw;
+	text-align:center;
+	font-size:25px;
+	font-family:'Ubuntu';
+	color:#cccccc;
+	font-weight:700; 
+}
+}
+@media screen and (max-width:500px){
+.sec2{
+	padding: 3% 2% 0% 2%;
+	width:100vw;
+	text-align:center;
+	font-size:12vmin;
+	font-family:'Cloister Black';
+	color:#cccccc; 
+}
+.sec1{
+	padding: 5% 2% 2% 2%;
+	width:100vw;
+	text-align:center;
+	opacity:0.8;
+}
+.sec3{
+	padding:2% 2% 3% 2%;
+	width:100vw;
+	text-align:center;
+	font-size:6vmin;
+	font-family:'Ubuntu';
+	color:#cccccc;
+	font-weight:700; 
+}
+}
+@media screen and (max-width: 768px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+    margin-right:17px;
+    box-sizing: border-box;
+  }
+  .topnav {
+    background-color: #654321;
+    overflow: hidden;
+    height:12vh;
+    width:100vw;
+    margin-bottom:2vh;
+    position:sticky;
+    top:0;
+    z-index: 100;
+    height:auto;
+    box-sizing: border-box;
+}
+  }
+  @media screen and (max-width: 768px) {
+  .topnav.responsive {
+  	position:sticky;
+  	top:0;
+  	height:auto;
+  	box-sizing: border-box;
+  }
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size:23px;
+  }
+  .topnav.responsive a {
+  	float:none;
+  	clear: left;
+    overflow: unset;
+    display: block;
+    text-align: left;
+ 	font-size:20px;
+ 	box-sizing: border-box;
+ 	position:sticky;   
+  }
+  .topnav.responsive a:hover:first-child {
+    background-color: inherit;
+}	
+}
+@media screen and (min-width:1500px) and (min-height:1000px){
+.sec2{
+	padding: 3% 2% 0% 2%;
+	width:100vw;
+	text-align:center;
+	font-size:14vh;
+	font-family:'Shadows Into Light Two';
+	color:#cccccc;
+	font-weight:700; 
+}
+.sec1{
+	padding: 5% 2% 2% 2%;
+	width:100vw;
+	text-align:center;
+	opacity:0.8;
+}
+.sec3{
+	padding:0% 2% 4% 2%;
+	width:100vw;
+	text-align:center;
+	font-size:8vh;
+	font-family:'Ubuntu';
+	color:#cccccc;
+	font-weight:700; 
+}
+}	
+}
