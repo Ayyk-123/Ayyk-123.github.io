@@ -98,12 +98,12 @@
 	padding:15px 15px 15px 15px;
 	font-size:4vh;
 	box-sizing: border-box;
-	height:12vh;
+	height:11vh;
 }
 .active {
     background-color: #222222;
     color: white;
-    height:12vh;
+    height:11vh;
 }
 .active:hover{
 	background-color: #222222;
@@ -117,12 +117,12 @@
     background-color: #ddd;
     color: black;
     text-decoration:none;
-    height:12vh;
+    height:11vh;
     box-sizing: border-box;
 }
 .image1{
-    width:12vh;
-    height:12vh;
+    width:11vh;
+    height:11vh;
     float:left;
     padding:0%;
     margin:0%;
@@ -419,7 +419,7 @@
   .topnav {
     background-color: #654321;
     overflow: hidden;
-    height:12vh;
+    height:11vh;
     width:100vw;
     margin-bottom:2vh;
     position:sticky;
