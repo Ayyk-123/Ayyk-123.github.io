@@ -22,7 +22,7 @@
 	width:100vw;
 	text-align:center;
 	font-size:90px;
-	font-family:'Gaegu';
+	font-family:'Gaegu',cursive;
 	color:#cccccc;
 	font-weight:;
 	box-sizing: border-box; 
@@ -370,7 +370,7 @@
 	width:100vw;
 	text-align:center;
 	font-size:60px;
-	font-family:'Gaegu';
+	font-family:'Gaegu',cursive;
 	color:#cccccc; 
 }
 .sec3{
@@ -389,7 +389,7 @@
 	width:100vw;
 	text-align:center;
 	font-size:12vmin;
-	font-family:'Gaegu';
+	font-family:'Gaegu',cursive;
 	color:#cccccc; 
 }
 .sec1{
@@ -462,7 +462,7 @@
 	width:100vw;
 	text-align:center;
 	font-size:14vh;
-	font-family:'Gaegu';
+	font-family:'Gaegu',cursive;
 	color:#cccccc;
 	font-weight:700; 
 }
