@@ -21,10 +21,10 @@
 	padding: 3% 2% 0% 2%;
 	width:100vw;
 	text-align:center;
-	font-size:90px;
+	font-size:80px;
 	font-family:'Inknut Antiqua',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
-	font-weight:;
+	font-weight:normal;
 	box-sizing: border-box; 
 }
 .sec3{
@@ -369,7 +369,7 @@
 	padding: 3% 2% 0% 2%;
 	width:100vw;
 	text-align:center;
-	font-size:60px;
+	font-size:50px;
 	font-family:'Inknut Antiqua',serif/*'Poiret One',cursive*/;
 	color:#cccccc; 
 }
@@ -388,7 +388,7 @@
 	padding: 3% 2% 0% 2%;
 	width:100vw;
 	text-align:center;
-	font-size:12vmin;
+	font-size:10vmin;
 	font-family:'Inknut Antiqua',serif/*'Poiret One',cursive*/;
 	color:#cccccc; 
 }
@@ -461,7 +461,7 @@
 	padding: 3% 2% 0% 2%;
 	width:100vw;
 	text-align:center;
-	font-size:14vh;
+	font-size:13vh;
 	font-family:'Inknut Antiqua',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
 	font-weight:700; 
