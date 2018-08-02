@@ -137,8 +137,8 @@
     box-sizing: border-box;
 }
 .section1{
-    font-family: 'Montserrat';
-    font-size: 10vh;
+    font-family: 'Lora';
+    font-size: 9vh;
     padding-bottom:3%;
     text-align: center;
     box-sizing: border-box;
@@ -146,9 +146,9 @@
 }
 .section1Inner{
     font-family: 'Ubuntu';
-    line-height:6vh;
+    line-height:5vh;
     text-align:justify;
-    font-size:4vh;
+    font-size:3vh;
     display:block;
     padding-bottom: 5vh;
     box-sizing: border-box;
@@ -168,8 +168,8 @@
 }
 .section2{
 	padding-top:5vh;
-    font-family: 'Montserrat';
-    font-size: 10vh;
+    font-family: 'Lora';
+    font-size: 9vh;
     padding-bottom:3%;
     text-align: center;
     box-sizing: border-box;
@@ -177,9 +177,9 @@
 }
 .section2Inner{
     font-family: 'Ubuntu';
-    line-height:6vh;
+    line-height:5vh;
     text-align:justify;
-    font-size:4vh;
+    font-size:3vh;
     display:block;
     padding-bottom: 5vh;
     box-sizing: border-box;
@@ -194,8 +194,8 @@
 }
 .section3{
 	padding-top:5vh;
-    font-family: 'Montserrat';
-    font-size: 10vh;
+    font-family: 'Lora';
+    font-size: 9vh;
     padding-bottom:5vh;
     text-align: center;
     box-sizing: border-box;
@@ -256,8 +256,8 @@
 }
 .section4{
 	padding-top:5vh;
-    font-family: 'Montserrat';
-    font-size: 10vh;
+    font-family: 'Lora';
+    font-size: 9vh;
     padding-bottom:5vh;
     text-align: center;
     box-sizing: border-box;
@@ -278,8 +278,8 @@
 }
 .section5{
 	padding-top:5vh;
-    font-family: 'Montserrat';
-    font-size: 10vh;
+    font-family: 'Lora';
+    font-size: 9vh;
     padding-bottom:5vh;
     text-align: center;
     box-sizing: border-box;
@@ -317,8 +317,8 @@
     box-sizing: border-box;
 }
 .section6{
-    font-family: 'Montserrat';
-    font-size: 8vh;
+    font-family: 'Lora';
+    font-size: 9vh;
     padding-bottom:5vh;
     text-align: center;
     box-sizing: border-box;
