@@ -142,6 +142,7 @@
     padding-bottom:3%;
     text-align: center;
     box-sizing: border-box;
+    font-weight:700;
 }
 .section1Inner{
     font-family: 'Ubuntu';
@@ -172,6 +173,7 @@
     padding-bottom:3%;
     text-align: center;
     box-sizing: border-box;
+    font-weight:700;
 }
 .section2Inner{
     font-family: 'Ubuntu';
@@ -197,6 +199,7 @@
     padding-bottom:5vh;
     text-align: center;
     box-sizing: border-box;
+    font-weight:700;
 }
 .card1{
 	height:auto;
@@ -258,6 +261,7 @@
     padding-bottom:5vh;
     text-align: center;
     box-sizing: border-box;
+    font-weight:700;
 }
 .section4Inner{
 	text-align:center;
@@ -279,6 +283,7 @@
     padding-bottom:5vh;
     text-align: center;
     box-sizing: border-box;
+    font-weight:700;
 }
 .card {
     box-shadow: 5px 4px 8px 0 #888888;
@@ -317,6 +322,7 @@
     padding-bottom:5vh;
     text-align: center;
     box-sizing: border-box;
+    font-weight:700;
 }
 .card3 {
     box-shadow: 5px 4px 8px 0 #888888;
