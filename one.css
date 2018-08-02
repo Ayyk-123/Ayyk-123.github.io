@@ -24,7 +24,7 @@
 	font-size:70px;
 	font-family:'Montserrat',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
-	font-weight:1000;
+	font-weight:2000;
 	box-sizing: border-box;
 	text-transform:uppercase;
 }
@@ -380,7 +380,7 @@
 	font-family:'Montserrat',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
 	text-transform:uppercase;
-	font-weight:700;
+	font-weight:1000;
 }
 .sec3{
 	padding:0% 2% 10% 2%;
@@ -401,7 +401,7 @@
 	font-family:'Montserrat',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
 	text-transform:uppercase;
-	font-weight:normal;
+	font-weight:700;
 }
 .sec1{
 	padding: 5% 2% 2% 2%;
@@ -475,7 +475,7 @@
 	font-size:13vh;
 	font-family:'Montserrat',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
-	font-weight:1000;
+	font-weight:2000;
 	text-transform:uppercase;
 }
 .sec1{
