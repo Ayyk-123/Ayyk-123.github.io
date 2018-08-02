@@ -32,7 +32,7 @@
 	width:100vw;
 	text-align:center;
 	font-size:35px;
-	font-family:'Sirin Stencil';
+	font-family:'Ubuntu';
 	color:#cccccc;
 	font-weight:700;
 	box-sizing: border-box; 
@@ -89,7 +89,7 @@
     box-sizing: border-box;
 }
 .topnav a{
-	font-family:'Sirin Stencil';
+	font-family:'Ubuntu';
 	text-decoration:none;
 	display:block;
 	float:left;
@@ -137,14 +137,14 @@
     box-sizing: border-box;
 }
 .section1{
-    font-family: 'Sirin Stencil';
+    font-family: 'Montserrat';
     font-size: 10vh;
     padding-bottom:3%;
     text-align: center;
     box-sizing: border-box;
 }
 .section1Inner{
-    font-family: 'Special Elite';
+    font-family: 'Ubuntu';
     line-height:6vh;
     text-align:justify;
     font-size:4vh;
@@ -167,14 +167,14 @@
 }
 .section2{
 	padding-top:5vh;
-    font-family: 'Sirin Stencil';
+    font-family: 'Montserrat';
     font-size: 10vh;
     padding-bottom:3%;
     text-align: center;
     box-sizing: border-box;
 }
 .section2Inner{
-    font-family: 'Special Elite';
+    font-family: 'Ubuntu';
     line-height:6vh;
     text-align:justify;
     font-size:4vh;
@@ -192,7 +192,7 @@
 }
 .section3{
 	padding-top:5vh;
-    font-family: 'Sirin Stencil';
+    font-family: 'Montserrat';
     font-size: 10vh;
     padding-bottom:5vh;
     text-align: center;
@@ -253,7 +253,7 @@
 }
 .section4{
 	padding-top:5vh;
-    font-family: 'Sirin Stencil';
+    font-family: 'Montserrat';
     font-size: 10vh;
     padding-bottom:5vh;
     text-align: center;
@@ -274,7 +274,7 @@
 }
 .section5{
 	padding-top:5vh;
-    font-family: 'Sirin Stencil';
+    font-family: 'Montserrat';
     font-size: 10vh;
     padding-bottom:5vh;
     text-align: center;
@@ -312,7 +312,7 @@
     box-sizing: border-box;
 }
 .section6{
-    font-family: 'Sirin Stencil';
+    font-family: 'Montserrat';
     font-size: 8vh;
     padding-bottom:5vh;
     text-align: center;
