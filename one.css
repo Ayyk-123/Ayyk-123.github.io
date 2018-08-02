@@ -22,11 +22,10 @@
 	width:100vw;
 	text-align:center;
 	font-size:70px;
-	font-family:'Montserrat',serif/*'Poiret One',cursive*/;
+	font-family:'Inknut Antiqua',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
 	font-weight:bold;
 	box-sizing: border-box;
-	text-transform:uppercase;
 }
 .sec3{
 	padding:0% 2% 4% 2%;
@@ -377,9 +376,8 @@
 	width:100vw;
 	text-align:center;
 	font-size:40px;
-	font-family:'Montserrat',serif/*'Poiret One',cursive*/;
+	font-family:'Inknut Antiqua',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
-	text-transform:uppercase;
 	font-weight:bold;
 }
 .sec3{
@@ -398,9 +396,8 @@
 	width:100vw;
 	text-align:center;
 	font-size:35px;
-	font-family:'Montserrat',serif/*'Poiret One',cursive*/;
+	font-family:'Inknut Antiqua',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
-	text-transform:uppercase;
 	font-weight:1000;
 }
 .sec1{
@@ -495,10 +492,9 @@
 	width:100vw;
 	text-align:center;
 	font-size:13vh;
-	font-family:'Montserrat',serif/*'Poiret One',cursive*/;
+	font-family:'Inknut Antiqua',serif/*'Poiret One',cursive*/;
 	color:#cccccc;
 	font-weight:bold;
-	text-transform:uppercase;
 }
 .sec1{
 	padding: 5% 2% 2% 2%;
