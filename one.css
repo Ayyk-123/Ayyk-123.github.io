@@ -148,7 +148,7 @@
     font-family: 'Ubuntu';
     line-height:5vh;
     text-align:justify;
-    font-size:3vh;
+    font-size:4vh;
     display:block;
     padding-bottom: 5vh;
     box-sizing: border-box;
@@ -179,7 +179,7 @@
     font-family: 'Ubuntu';
     line-height:5vh;
     text-align:justify;
-    font-size:3vh;
+    font-size:4vh;
     display:block;
     padding-bottom: 5vh;
     box-sizing: border-box;
@@ -222,7 +222,7 @@
 	box-sizing: border-box;
 }
 .header h2{
-	font-size:7vh;
+	font-size:6vh;
 	box-sizing: border-box;
 }
 .para{
