@@ -439,6 +439,28 @@
     height:auto;
     box-sizing: border-box;
 }
+	.section1{
+		font-size:8vh;
+  }
+	.section1Inner{
+		font-size:3vh;
+		line-height:5vh;
+  }
+	.section2{
+		font-size:8vh;
+  }
+	.section2Inner{
+		font-size:3vh;
+		line-height:5vh;
+  }
+	.section3{
+		font-size:8vh;
+  }
+	.section4{
+		font-size:8vh;
+  }
+	.section5{
+		font-size:8vh;
   }
   @media screen and (max-width: 768px) {
   .topnav.responsive {
